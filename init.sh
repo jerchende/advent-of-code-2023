@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DAY=22
+DAY=`date +%d`
 MONTH=12
 
 if [ $MONTH != 12 ] || [ $DAY -gt 25 ]  ; then
