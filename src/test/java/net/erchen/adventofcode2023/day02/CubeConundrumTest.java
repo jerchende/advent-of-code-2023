@@ -59,7 +59,7 @@ class CubeConundrumTest {
     void fewest_Solution() {
         var cubeConundrum = CubeConundrum.fromInput(solutionInput());
 
-        assertThat(cubeConundrum.power()).isEqualTo(2286);
+        assertThat(cubeConundrum.power()).isEqualTo(69929);
     }
 
 }
