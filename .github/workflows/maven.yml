@@ -35,7 +35,7 @@ jobs:
         run: mvn -B test --file pom.xml
         env:
           GITHUB_USER_REF: jerchende
-          GITHUB_TOKEN_REF: ${{ secrets.PACKAGE_REPO_PASSWORD }}
+          GITHUB_TOKEN_REF: ${{ secrets.GITHUB_TOKEN }}
 
 
       # Update AOC Badge
