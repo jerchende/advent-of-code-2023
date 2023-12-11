@@ -1,7 +1,7 @@
 # Advent Of Code 2023 Solutions
 
 [![Tests](https://github.com/jerchende/advent-of-code-2023/actions/workflows/maven.yml/badge.svg)](https://github.com/jerchende/advent-of-code-2023/actions/workflows/maven.yml)
-[![](https://img.shields.io/badge/stars%20⭐-13-yellow)](https://adventofcode.com/2023)
+[![](https://img.shields.io/badge/stars%20⭐-17-yellow)](https://adventofcode.com/2023)
 
 Here are my solutions for the Advent of Code [Advent of Code](https://adventofcode.com/2023). Implemented with Java 21 and Junit 5.
 
